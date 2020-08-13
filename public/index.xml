@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security is my Life</title>
+    <link>/</link>
+    <description>Recent content on Security is my Life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Aug 2020 19:41:01 +0530</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ShmooCon 2020: Cybersecurity Clubs &amp; You</title>
+      <link>/talks/shmoocon/</link>
+      <pubDate>Sat, 01 Aug 2020 19:41:01 +0530</pubDate>
+      
+      <guid>/talks/shmoocon/</guid>
+      <description>Dedicated students around the country have formed cybersecurity clubs to continue their learning outside of the classroom. These clubs have created communities focused on research, competing and celebrating a passion for security. In this talk we will cover the amazing things students are accomplishing and explain the different ways industry professionals can get involved.</description>
+    </item>
+    
+    <item>
+      <title>All Things security</title>
+      <link>/resources/allthethings/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>/resources/allthethings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How I went to a $4000 conference for free</title>
+      <link>/talks/freeconference/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>/talks/freeconference/</guid>
+      <description>We might be poor college students, but that doesn&amp;rsquo;t mean we should miss out on big security conferences. In fact, it is cheaper to go as a student! I will tell you how I have been to over 8 conferences in 2 years, all for free.</description>
+    </item>
+    
+    <item>
+      <title>How to ask technical questions</title>
+      <link>/talks/questions/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>/talks/questions/</guid>
+      <description>Gabby Raymond gave this talk at WiCyS 2019. The information was so valuable that I had to I share it with the RITSEC community.</description>
+    </item>
+    
+    <item>
+      <title>ISTS promo video</title>
+      <link>/talks/ists/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>/talks/ists/</guid>
+      <description>I produced, wrote and casted this promotional video for the RITSEC Information Security Talent Search.</description>
+    </item>
+    
+    <item>
+      <title>Offensive Security</title>
+      <link>/resources/offensive/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>/resources/offensive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OWASP TOP 5</title>
+      <link>/talks/owasp5/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>/talks/owasp5/</guid>
+      <description>A brief walkthrough and demo of the OWASP Top 5 web vulnerabilities</description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>/resources/programming/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>/resources/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reverse Engineering</title>
+      <link>/resources/re/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>/resources/re/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Volunteer</title>
+      <link>/resources/volunteer/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>/resources/volunteer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RITSEC Eboard Positions</title>
+      <link>/talks/eboard/</link>
+      <pubDate>Wed, 05 Oct 2016 19:41:01 +0530</pubDate>
+      
+      <guid>/talks/eboard/</guid>
+      <description>A description of each RITSEC Eboard position written 10 minutes before it was presented!</description>
+    </item>
+    
+    <item>
+      <title>I swear I am writing some</title>
+      <link>/blog/workinprog/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>/blog/workinprog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
