@@ -1,0 +1,8 @@
+[build]
+publish = "securityis.life/public/"
+command = "hugo"
+
+[context.production.environment]
+HUGO_VERSION = "0.74.3"
+HUGO_ENV = "production"
+HUGO_ENABLEGITINFO = "true"
