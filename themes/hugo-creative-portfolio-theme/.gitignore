@@ -1,4 +1,4 @@
 .DS_Store
 themes/
-public/
+# public/
 .idea/*
