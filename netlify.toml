@@ -1,5 +1,5 @@
 [build]
-publish = "securityis.life/"
+publish = "securityis.life/public/"
 command = "hugo"
 
 [context.production.environment]
