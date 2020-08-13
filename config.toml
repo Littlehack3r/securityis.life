@@ -1,4 +1,4 @@
-baseurl = "https://littlehack3r.github.io/securityis.life/"
+baseurl = ""
 title = "Security is my Life"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
