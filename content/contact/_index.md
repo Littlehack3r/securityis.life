@@ -1,6 +1,6 @@
 +++
 date = "2016-11-06T13:00:25+05:30"
-title = "Get in touch"
+title = "NOT CURRENTLY ACTIVE"
 +++
 
 Feel free to reach out to me regarding:
