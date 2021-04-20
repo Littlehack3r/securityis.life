@@ -10,6 +10,4 @@ weight = 1
 Dedicated students around the country have formed cybersecurity clubs to continue their learning outside of the classroom. These clubs have created communities focused on research, competing and celebrating a passion for security. In this talk we will cover the amazing things students are accomplishing and explain the different ways industry professionals can get involved.
 
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/tkEgihPLku4/0.jpg)](http://www.youtube.com/watch?v=tkEgihPLku4)
-
-
+{{< youtube tkEgihPLku4 >}}

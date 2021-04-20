@@ -9,4 +9,5 @@ weight = 1
 
 I have gotten a job offer or two during my days at RIT. This talk gave some very valuable tips to RIT students who were preparring 
 
-[![IMAGE ALT TEXT HERE](/img/career.png)](https://youtu.be/FnWibRp-t6Y)
+
+{{< youtube FnWibRp-t6Y >}}
